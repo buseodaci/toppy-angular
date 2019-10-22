@@ -1,0 +1,12 @@
+#btn{
+  cursor:pointer;
+  border-radius: 5px;
+  width:15%;
+  height: 30px;
+  background-color: #ff4d4d;
+  border:0px;
+  margin: 10px 0 0 10px;
+  font-family: cursive;
+  font-size: large;
+  display: block;
+}
